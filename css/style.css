@@ -1,0 +1,34 @@
+h1 {
+    color:pink;
+    font-size: 30px;
+  }
+  p {
+    color: black;
+    font-size: 20px;
+  }
+  h2{
+    color: purple;
+  }
+  .metin{
+    
+    color: orange;
+
+  }
+ .liste{ 
+   list-style-position: inside
+
+ }
+
+ img{
+   width: 200px;
+   height: 200px;
+ }
+ li{
+  list-style-position: inside
+ }
+ .metin1{
+    
+  color: orange;
+  text-align: left;
+
+}
